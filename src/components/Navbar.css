@@ -1,0 +1,43 @@
+.social-icons-list {
+    list-style: none;
+    display: flex;
+    margin-bottom: 0;
+}
+
+.social-icon {
+    text-decoration: none;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 7px;
+    margin-right: 11px;
+    cursor: pointer;
+}
+
+.social-twitter {
+    background-color: #55acee;
+}
+
+.social-instagram {
+    background-color: #dd4b39;
+}
+
+.social-github {
+    background-color: #16191b;
+}
+
+.social-icon i {
+    transition: 0.4s all;
+}
+
+.social-icon:hover {
+    color: #fff;
+}
+
+.social-icon:hover i {
+    transform: scale(1.1);
+}
