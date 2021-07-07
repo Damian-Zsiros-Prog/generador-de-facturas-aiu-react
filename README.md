@@ -1,5 +1,11 @@
 # Generador de facturas AIU
 
+![Imagen 1 proyecto](https://res.cloudinary.com/deel6thtb/image/upload/v1625690481/cazuc9dbgebzfgqjaqk2.jpg)
+
+## Detalle de factura
+
+![Imagen 1 proyecto](https://res.cloudinary.com/deel6thtb/image/upload/v1625690489/z64gvtxodjcdvfe6b3do.jpg)
+
 ## Creador: Damian Zsiros
 
 ## Available Scripts
